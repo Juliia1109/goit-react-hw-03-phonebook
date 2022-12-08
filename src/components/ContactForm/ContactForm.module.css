@@ -1,0 +1,20 @@
+.form {
+  padding: 15px;
+  background-color: #ddd9ec;
+  border-radius: 3%;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 25px;
+}
+
+.input {
+  margin-top: 5px;
+}
+
+.btn {
+  margin-left: 75px;
+  border-color: blueviolet;
+}
